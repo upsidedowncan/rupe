@@ -1,0 +1,30 @@
+{
+"name": "Rupe",
+"subtitle": "Репозиторий со всеми нужными росийскими приложениями.",
+"description": "",
+"iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+"website": "",
+"patreonURL": "",
+"tintColor": "#56c0e2",
+"featuredApps": [
+],
+"apps": [
+{
+"name": "Avito",
+"bundleIdentifier": "ru.avito.app",
+"marketplaceID": "",
+"developerName": "Avito",
+"subtitle": "Avito",
+"localizedDescription": "Avito",
+"iconURL": undefined,
+"tintColor": "#945cec",
+"category": "other",
+"screenshots": [...],
+"versions": [...],
+"appPermissions": {...},
+"patreon": {...}
+}
+],
+"news": [
+]
+}
