@@ -1,30 +1,59 @@
 {
-"name": "Rupe",
-"subtitle": "Репозиторий со всеми нужными росийскими приложениями.",
-"description": "",
-"iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
-"website": "",
-"patreonURL": "",
-"tintColor": "#56c0e2",
-"featuredApps": [
-],
-"apps": [
-{
-"name": "Avito",
-"bundleIdentifier": "ru.avito.app",
-"marketplaceID": "",
-"developerName": "Avito",
-"subtitle": "Avito",
-"localizedDescription": "Avito",
-"iconURL": undefined,
-"tintColor": "#945cec",
-"category": "other",
-"screenshots": [...],
-"versions": [...],
-"appPermissions": {...},
-"patreon": {...}
-}
-],
-"news": [
-]
+  "name": "Rupe",
+  "subtitle": "Российские приложения в одном месте",
+  "description": "",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Avito",
+      "bundleIdentifier": "ru.avito.app",
+      "marketplaceID": "",
+      "developerName": "Avito",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": null,
+      "tintColor": "#945cec",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          "https://cdn.bg.ru/bg.ru/post_image-image/qjVqTJHjpVz50zQiS5IlSw.jpg"
+        ],
+        "ipad": [
+          "https://cdn.bg.ru/bg.ru/post_image-image/qjVqTJHjpVz50zQiS5IlSw.jpg"
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://www.dropbox.com/scl/fi/wp3v6v2md8tau3njn9y1f/Avito_193.0.ipa?rlkey=wupb5snncckuurt1466beqlaq&st=93rscygx&dl=1",
+          "size": 473300000,
+          "version": "193.0",
+          "buildVersion": "193",
+          "date": "2025-06-30T07:53:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Это нужно, чтобы делать фото для объявлений и совершать видеозвонки.",
+          "NSContactsUsageDescription": "Разрешите добавить номер в список.",
+          "NSFaceIDUsageDescription": "Для удобного и безопасного подтверждения действий",
+          "NSLocationUsageDescription": "Данные о вашем местоположении могут быть использованы при подаче и поиске объявлений.",
+          "NSLocationWhenInUseUsageDescription": "Данные о вашем местоположении могут быть использованы при подаче и поиске объявлений.",
+          "NSMicrophoneUsageDescription": "Вы сможете звонить и принимать звонки через Авито.",
+          "NSMotionUsageDescription": "Приложению нужен доступ к шагомеру",
+          "NSPhotoLibraryAddUsageDescription": "Приложению нужен доступ к галерее, чтобы сохранять фотографии",
+          "NSPhotoLibraryUsageDescription": "Приложению нужен доступ к галерее, чтобы прикреплять фотографии к объявлению",
+          "NSUserTrackingUsageDescription": "Так реклама будет подобрана специально для вас"
+        }
+      }
+    }
+  ],
+  "patreon": {},
+  "news": []
 }
