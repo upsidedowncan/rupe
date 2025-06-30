@@ -15,7 +15,7 @@
       "developerName": "Avito",
       "subtitle": "",
       "localizedDescription": "",
-      "iconURL": null,
+      "iconURL": "https://m.avito.ru/icons/touch-icon-512x512.png",
       "tintColor": "#945cec",
       "category": "utilities",
       "screenshots": {
